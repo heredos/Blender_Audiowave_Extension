@@ -18,6 +18,11 @@ go back to your terminal, and run `blender --command extension build`
 it should give you a zip.  
 now, open blender, go to Edit>preferences>Extensions, click on the down arrow in the top right corner, and Install from disk. Now, navigate to the zip file you just created and you should be good to go!  
 
+## usage
+create an fcurve, open it in the graph editors, go to the modifiers and click the generate curve button.  
+you'll see a little redo panel in the bottom left corner of the curve editor, open it, tweak the settings, select a file, and boom, you got a curve, just like that.  
+while you *can* modify the settings after a file has been selected, that does not mean you *should*. it can take 2~3 seconds to generate a 7 minute audio curve on a decent computer, but if you want to do it anyway, do it with your keyboard instead of your mouse, it'll be easier to get to the expected result.
+
 ## More on this project
 this was made during my 2 month internship at WEGL, a 3d and fx company (more or less, i think, they do a ton of stuff), and is more or less my first blender addon, so there may be a lot of things to improve.  
 

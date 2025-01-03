@@ -1,7 +1,7 @@
 # Blender_Audiowave_Extension
 a poweful and customizable animation curve from audio generator for blender
 
-![exemple of the extension in action](https://cdn.discordapp.com/attachments/725041161001107456/1249000537563861173/clipboard.png?ex=6665b5e5&is=66646465&hm=284db788010f7086ac08133e9480d8a2fee86e57419dc1496d2a48395c5656f8&)
+![exemple of the extension in action](https://heredos.net/3DPortfolio/audiowave.png)
 
 ## Depensencies
 this extension heavily relies on scipy, for the savgol_filter and the fast fourier transform.
